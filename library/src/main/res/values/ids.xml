@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ex_header" type="id"/>
+    <item name="header1" type="id"/>
+    <item name="header2" type="id"/>
+</resources>
